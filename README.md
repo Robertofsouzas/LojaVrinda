@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo realizar uma análise completa dos dados da LojaVRinda, desde a coleta até a visualização de insights utilizando o Amazon QuickSight.
 
-![Pipeline]
+![Pipeline]![ETL](https://github.com/Robertofsouzas/LojaVrinda/assets/67076322/fff492d3-2c4a-4cc3-ac98-b6ceba708461)
 
 
 # Passo 1: Coleta de Dados no Kaggle
