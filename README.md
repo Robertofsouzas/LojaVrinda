@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo realizar uma análise completa dos dados da LojaVRinda, desde a coleta até a visualização de insights utilizando o Amazon QuickSight.
 
+![Pipeline]
+
 
 # Passo 1: Coleta de Dados no Kaggle
 
@@ -52,7 +54,7 @@ usando a Configurações do AWS ,  Configurações do Amazon S3 , Configuração
 
 
 
-# Passo 6: Visualização no Amazon QuickSight
+# Passo 7: Visualização no Amazon QuickSight
 
 Acesse o Amazon QuickSight.
 
