@@ -34,7 +34,7 @@ No Jupyter Notebook, utilizei ferramentas como Pandas e Matplotlib/Seaborn para 
 
 # Passo 5: Encontrando Insights
 
-1. Diferença de Gênero nas Compras:
+> 1. Diferença de Gênero nas Compras:
 As mulheres apresentam uma probabilidade 65% maior de fazer compras em comparação aos homens.
 
 > 2. Principais Estados em Vendas:
