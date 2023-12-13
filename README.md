@@ -5,7 +5,7 @@ Este projeto tem como objetivo realizar uma análise completa dos dados da LojaV
 ![Pipeline]![ETL](https://github.com/Robertofsouzas/LojaVrinda/assets/67076322/fff492d3-2c4a-4cc3-ac98-b6ceba708461)
 
 # Passo 1 Carregando as Bibliotecas
--**import os**
+- **import os**
 - **import pandas as pd
 - **import numpy as np
 import matplotlib.pyplot as plt
