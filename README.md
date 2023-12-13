@@ -21,7 +21,7 @@ usei  o Jupyter Notebook.
 
 Utilizei bibliotecas como Pandas para carregar e manipular os dados.
 
-Realizei a limpeza dos dados, tratando valores ausentes e outliers, engenharia de atibutos.
+Realizei a limpeza dos dados, tratando valores ausentes e outliers, engenharia de atributos.
 
 
 # Passo 4: Análise Estatística Descritiva
