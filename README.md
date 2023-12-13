@@ -71,7 +71,7 @@ Direcione campanhas de marketing para mulheres na faixa etária de 30 a 49 anos,
 
 
 
-![Dashboard_LojaVrinda](https://github.com/Robertofsouzas/LojaVrinda/issues/1)
+![Dashboard_LojaVrinda]![Dashboard_lojaVrinda](https://github.com/Robertofsouzas/LojaVrinda/assets/67076322/3dca334c-cdaa-4ad9-8677-76bd9d17be67)
 
 
 
