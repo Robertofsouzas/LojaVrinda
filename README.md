@@ -6,7 +6,7 @@ Este projeto tem como objetivo realizar uma análise completa dos dados da LojaV
 
 # Passo 1 Carregando as Bibliotecas
 - **import os**
-- ***import pandas as pd**
+- **import pandas as pd**
 - **mport numpy as np**
 - **import matplotlib.pyplot as plt**
 - **import seaborn as sns**
