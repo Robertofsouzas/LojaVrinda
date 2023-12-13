@@ -26,8 +26,7 @@ Realizei a limpeza dos dados, tratando valores ausentes e outliers, engenharia d
 
 # Passo 4: Análise Estatística Descritiva
 
-No Jupyter Notebook, utilize ferramentas como Pandas e Matplotlib/Seaborn para realizar análises estatísticas descritivas.
-análises estatísticas para identificar padrões e tendências
+No Jupyter Notebook, utilizei ferramentas como Pandas e Matplotlib/Seaborn para realizar análises estatísticas descritivas para identificar padrões e tendências.
 
 
 
