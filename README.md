@@ -4,20 +4,38 @@ Este projeto tem como objetivo realizar uma análise completa dos dados da LojaV
 
 ![Pipeline]![ETL](https://github.com/Robertofsouzas/LojaVrinda/assets/67076322/fff492d3-2c4a-4cc3-ac98-b6ceba708461)
 
+# Passo 1 Carregando as Bibliotecas
+import os
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from datetime import datetime
+import time
+import pymssql as sql
+import warnings
+warnings.filterwarnings("ignore")
+import pyodbc
+import sqlalchemy as sa 
+import openpyxl
+from scipy.stats import skew
+from kaggle.api.kaggle_api_extended import KaggleApi
 
-# Passo 1: Coleta de Dados no Kaggle
+# Passo 2: Coleta de Dados no Kaggle
 
 Vá para o Kaggle e encontre o conjunto de dados relevante da LojaVRinda.(https://www.kaggle.com/datasets/anshika2301/vrinda-store-data-analysis)
 
 Conectei via API
 
-# Passo 2: Carregando os Dados para o Amazon S3 (Camada Raw)
+# Passo 3: Carregando os Dados para o Amazon S3 (Camada Raw)
 Crie um bucket no Amazon S3.
 
 Utilize a AWS CLI para carregar o conjunto de dados no seu bucket do S3.
 
+# Passo 4 Análise Exploratória
 
-# Passo 3: Tratamento e Limpeza dos Dados
+
+# Passo 5: Tratamento e Limpeza dos Dados
 
 usei  o Jupyter Notebook.
 
@@ -26,13 +44,13 @@ Utilizei bibliotecas como Pandas para carregar e manipular os dados.
 Realizei a limpeza dos dados, tratando valores ausentes e outliers, engenharia de atributos.
 
 
-# Passo 4: Análise Estatística Descritiva
+# Passo 6: Análise Estatística Descritiva
 
 No Jupyter Notebook, utilizei ferramentas como Pandas e Matplotlib/Seaborn para realizar análises estatísticas descritivas para identificar padrões e tendências.
 
 
 
-# Passo 5: Encontrando Insights
+# Passo 7: Encontrando Insights
 
 > 1. Diferença de Gênero nas Compras:
 As mulheres apresentam uma probabilidade 65% maior de fazer compras em comparação aos homens.
@@ -48,13 +66,13 @@ Aprimorado: Os canais de venda Amazon, Flipkart e Myntra são os principais cont
 
 
 
-# Passo 6: Carregando os dados tratados e limpos para o s3 camada gold
+# Passo 8: Carregando os dados tratados e limpos para o s3 camada gold
 
 usando a Configurações do AWS ,  Configurações do Amazon S3 , Configuração do cliente S3
 
 
 
-# Passo 7: Visualização no Amazon QuickSight
+# Passo 9: Visualização no Amazon QuickSight
 
 Acesse o Amazon QuickSight.
 
