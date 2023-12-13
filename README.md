@@ -6,20 +6,19 @@ Este projeto tem como objetivo realizar uma análise completa dos dados da LojaV
 
 # Passo 1 Carregando as Bibliotecas
 - **import os**
-- **import pandas as pd
-- **import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from datetime import datetime
-import time
-import pymssql as sql
-import warnings
-warnings.filterwarnings("ignore")
-import pyodbc
-import sqlalchemy as sa 
-import openpyxl
-from scipy.stats import skew
-from kaggle.api.kaggle_api_extended import KaggleApi
+- ***import pandas as pd**
+- **mport numpy as np**
+- **import matplotlib.pyplot as plt**
+- **import seaborn as sns**
+- **from datetime import datetime**
+- **import time**
+- **import warnings**
+- **warnings.filterwarnings("ignore")**
+- **vimport pyodbc**
+- **import sqlalchemy as sa**
+- **import openpyxl**
+- **from scipy.stats import skew**
+- **from kaggle.api.kaggle_api_extended import KaggleApi**
 
 # Passo 2: Coleta de Dados no Kaggle
 
